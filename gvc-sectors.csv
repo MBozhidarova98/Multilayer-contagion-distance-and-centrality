@@ -1,0 +1,222 @@
+﻿sect,source,sect_name,sect_group
+1,eora,1-Agriculture,"Agriculture, forestry and fishing"
+2,eora,2-Fishing,"Agriculture, forestry and fishing"
+3,eora,3-Mining and Quarrying,Mining and Quarrying
+4,eora,4-Food & Beverages,Manufacturing
+5,eora,5-Textiles and Wearing Apparel,Manufacturing
+6,eora,6-Wood and Paper,Manufacturing
+7,eora,"7-Petroleum, Chemical and Non-Metallic Mineral Products",Manufacturing
+8,eora,8-Metal Products,Manufacturing
+9,eora,9-Electrical and Machinery,Manufacturing
+10,eora,10-Transport Equipment,Manufacturing
+11,eora,11-Other Manufacturing,Manufacturing
+12,eora,12-Recycling,Manufacturing
+13,eora,"13-Electricity, Gas and Water","Electricity, Gas and Water"
+14,eora,14-Construction,Construction
+15,eora,15-Maintenance and Repair,Services
+16,eora,16-Wholesale Trade,Services
+17,eora,17-Retail Trade,Services
+18,eora,18-Hotels and Restraurants,Services
+19,eora,19-Transport,Services
+20,eora,20-Post and Telecommunications,Services
+21,eora,21-Finacial Intermediation and Business Activities,Services
+22,eora,22-Public Administration,Services
+23,eora,"23-Education, Health and Other Services",Services
+24,eora,24-Private Households,Services
+25,eora,25-Others,Other
+26,eora,26-Re-export & Re-import,Other
+1,wiodo,"1-Agriculture, Hunting, Forestry and Fishing","Agriculture, forestry and fishing"
+2,wiodo,2-Mining and Quarrying,Mining and Quarrying
+3,wiodo,"3-Food, Beverages and Tobacco",Manufacturing
+4,wiodo,4-Textiles and Textile Products,Manufacturing
+5,wiodo,"5-Leather, Leather and Footwear",Manufacturing
+6,wiodo,6-Wood and Products of Wood and Cork,Manufacturing
+7,wiodo,"7-Pulp, Paper, Paper , Printing and Publishing",Manufacturing
+8,wiodo,"8-Coke, Refined Petroleum and Nuclear Fuel",Manufacturing
+9,wiodo,9-Chemicals and Chemical Products,Manufacturing
+10,wiodo,10-Rubber and Plastics,Manufacturing
+11,wiodo,11-Other Non-Metallic Mineral,Manufacturing
+12,wiodo,12-Basic Metals and Fabricated Metal,Manufacturing
+13,wiodo,"13-Machinery, Nec",Manufacturing
+14,wiodo,14-Electrical and Optical Equipment,Manufacturing
+15,wiodo,15-Transport Equipment,Manufacturing
+16,wiodo,"16-Manufacturing, Nec; Recycling",Manufacturing
+17,wiodo,"17-Electricity, Gas and Water Supply","Electricity, Gas and Water"
+18,wiodo,18-Construction,Construction
+19,wiodo,"19-Sale, Maintenance and Repair of Motor Vehicles and Motorcycles; Retail Sale of Fuel",Services
+20,wiodo,"20-Wholesale Trade and Commission Trade, Except of Motor Vehicles and Motorcycles",Services
+21,wiodo,"21-Retail Trade, Except of Motor Vehicles and Motorcycles; Repair of Household Goods",Services
+22,wiodo,22-Hotels and Restaurants,Services
+23,wiodo,23-Inland Transport,Services
+24,wiodo,24-Water Transport,Services
+25,wiodo,25-Air Transport,Services
+26,wiodo,26-Other Supporting and Auxiliary Transport Activities; Activities of Travel Agencies,Services
+27,wiodo,27-Post and Telecommunications,Services
+28,wiodo,28-Financial Intermediation,Services
+29,wiodo,29-Real Estate Activities,Services
+30,wiodo,30-Renting of M&Eq and Other Business Activities,Services
+31,wiodo,31-Public Admin and Defence; Compulsory Social Security,Services
+32,wiodo,32-Education,Services
+33,wiodo,33-Health and Social Work,Services
+34,wiodo,"34-Other Community, Social and Personal Services",Services
+35,wiodo,35-Private Households with Employed Persons,Services
+1,wiodn,"1-Crop and animal production, hunting and related service activities","Agriculture, forestry and fishing"
+2,wiodn,2-Forestry and logging,"Agriculture, forestry and fishing"
+3,wiodn,3-Fishing and aquaculture,"Agriculture, forestry and fishing"
+4,wiodn,4-Mining and quarrying,Mining and Quarrying
+5,wiodn,"5-Manufacture of food products, beverages and tobacco products",Manufacturing
+6,wiodn,"6-Manufacture of textiles, wearing apparel and leather products",Manufacturing
+7,wiodn,"7-Manufacture of wood and of products of wood and cork, except furniture, manufacture of articles of straw and plaiting materials",Manufacturing
+8,wiodn,8-Manufacture of paper and paper products,Manufacturing
+9,wiodn,9-Printing and reproduction of recorded media,Manufacturing
+10,wiodn,10-Manufacture of coke and refined petroleum products,Manufacturing
+11,wiodn,11-Manufacture of chemicals and chemical products,Manufacturing
+12,wiodn,12-Manufacture of basic pharmaceutical products and pharmaceutical preparations,Manufacturing
+13,wiodn,13-Manufacture of rubber and plastic products,Manufacturing
+14,wiodn,14-Manufacture of other non-metallic mineral products,Manufacturing
+15,wiodn,15-Manufacture of basic metals,Manufacturing
+16,wiodn,"16-Manufacture of fabricated metal products, except machinery and equipment",Manufacturing
+17,wiodn,"17-Manufacture of computer, electronic and optical products",Manufacturing
+18,wiodn,18-Manufacture of electrical equipment,Manufacturing
+19,wiodn,19-Manufacture of machinery and equipment n.e.c.,Manufacturing
+20,wiodn,"20-Manufacture of motor vehicles, trailers and semi-trailers",Manufacturing
+21,wiodn,21-Manufacture of other transport equipment,Manufacturing
+22,wiodn,"22-Manufacture of furniture, other manufacturing",Manufacturing
+23,wiodn,23-Repair and installation of machinery and equipment,Manufacturing
+24,wiodn,"24-Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water"
+25,wiodn,"25-Water collection, treatment and supply","Electricity, Gas and Water"
+26,wiodn,"26-Sewerage, waste collection, treatment and disposal activities, materials recovery, remediation activities and other waste management s","Electricity, Gas and Water"
+27,wiodn,27-Construction,Construction
+28,wiodn,28-Wholesale and retail trade and repair of motor vehicles and motorcycles,Services
+29,wiodn,"29-Wholesale trade, except of motor vehicles and motorcycles",Services
+30,wiodn,"30-Retail trade, except of motor vehicles and motorcycles",Services
+31,wiodn,31-Land transport and transport via pipelines,Services
+32,wiodn,32-Water transport,Services
+33,wiodn,33-Air transport,Services
+34,wiodn,34-Warehousing and support activities for transportation,Services
+35,wiodn,35-Postal and courier activities,Services
+36,wiodn,36-Accommodation and food service activities,Services
+37,wiodn,37-Publishing activities,Services
+38,wiodn,"38-Motion picture, video and television programme production, sound recording and music publishing activities, programming and broadcasti",Services
+39,wiodn,39-Telecommunications,Services
+40,wiodn,"40-Computer programming, consultancy and related activities, information service activities",Services
+41,wiodn,"41-Financial service activities, except insurance and pension funding",Services
+42,wiodn,"42-Insurance, reinsurance and pension funding, except compulsory social security",Services
+43,wiodn,43-Activities auxiliary to financial services and insurance activities,Services
+44,wiodn,44-Real estate activities,Services
+45,wiodn,"45-Legal and accounting activities, activities of head offices, management consultancy activities",Services
+46,wiodn,"46-Architectural and engineering activities, technical testing and analysis",Services
+47,wiodn,47-Scientific research and development,Services
+48,wiodn,48-Advertising and market research,Services
+49,wiodn,"49-Other professional, scientific and technical activities, veterinary activities",Services
+50,wiodn,50-Administrative and support service activities,Services
+51,wiodn,"51-Public administration and defence, compulsory social security",Services
+52,wiodn,52-Education,Services
+53,wiodn,53-Human health and social work activities,Services
+54,wiodn,54-Other service activities,Services
+55,wiodn,"55-Activities of households as employers, undifferentiated goods- and services-producing activities of households for own use",Services
+56,wiodn,56-Activities of extraterritorial organizations and bodies,Other
+1,wiodlr,"1-Agriculture, Hunting, Forestry and Fishing","Agriculture, forestry and fishing"
+2,wiodlr,2-Mining and Quarrying,Mining and Quarrying
+3,wiodlr,"3-Food, Beverages and Tobacco",Manufacturing
+4,wiodlr,"4-Textiles, Textile, Leather and Footwear",Manufacturing
+5,wiodlr,"5-Pulp, Paper, Paper, Printing and Publishing",Manufacturing
+6,wiodlr,"6-Coke, Refined Petroleum and Nuclear Fuel",Manufacturing
+7,wiodlr,7-Chemicals and Chemical Products,Manufacturing
+8,wiodlr,8-Rubber and Plastics,Manufacturing
+9,wiodlr,9-Other Non-Metallic Mineral,Manufacturing
+10,wiodlr,10-Basic Metals and Fabricated Metal,Manufacturing
+11,wiodlr,"11-Machinery, nec.",Manufacturing
+12,wiodlr,12-Electrical and Optical Equipment,Manufacturing
+13,wiodlr,13-Transport Equipment,Manufacturing
+14,wiodlr,"14-Manufacturing, nec.; Recycling",Manufacturing
+15,wiodlr,"15-Electricity, Gas and Water Supply","Electricity, Gas and Water"
+16,wiodlr,16-Construction,Construction
+17,wiodlr,17-Wholesale and Retail Trade,Services
+18,wiodlr,18-Hotels and Restaurants,Services
+19,wiodlr,19-Transport and Storage,Services
+20,wiodlr,20-Post and Telecommunications,Services
+21,wiodlr,21-Financial Intermediation,Services
+22,wiodlr,"22-Real Estate, Renting and Business Activities",Services
+23,wiodlr,23-Community Social and Personal Services,Services
+1,adb,"1-Agriculture, hunting, forestry, and fishing","Agriculture, forestry and fishing"
+2,adb,2-Mining and quarrying,Mining and Quarrying
+3,adb,"3-Food, beverages, and tobacco",Manufacturing
+4,adb,4-Textiles and textile products,Manufacturing
+5,adb,"5-Leather, leather products, and footwear",Manufacturing
+6,adb,6-Wood and products of wood and cork,Manufacturing
+7,adb,"7-Pulp, paper, paper products, printing, and publishing",Manufacturing
+8,adb,"8-Coke, refined petroleum, and nuclear fuel",Manufacturing
+9,adb,9-Chemicals and chemical products,Manufacturing
+10,adb,10-Rubber and plastics,Manufacturing
+11,adb,11-Other nonmetallic minerals,Manufacturing
+12,adb,12-Basic metals and fabricated metal,Manufacturing
+13,adb,"13-Machinery, nec",Manufacturing
+14,adb,14-Electrical and optical equipment,Manufacturing
+15,adb,15-Transport equipment,Manufacturing
+16,adb,"16-Manufacturing, nec; recycling",Manufacturing
+17,adb,"17-Electricity, gas, and water supply","Electricity, Gas and Water"
+18,adb,18-Construction,Construction
+19,adb,"19-Sale, maintenance, and repair of motor vehicles and motorcycles; retail sale of fuel",Services
+20,adb,"20-Wholesale trade and commission trade, except of motor vehicles and motorcycles",Services
+21,adb,"21-Retail trade, except of motor vehicles and motorcycles; repair of household goods",Services
+22,adb,22-Hotels and restaurants,Services
+23,adb,23-Inland transport,Services
+24,adb,24-Water transport,Services
+25,adb,25-Air transport,Services
+26,adb,26-Other supporting and auxiliary transport activities; activities of travel agencies,Services
+27,adb,27-Post and telecommunications,Services
+28,adb,28-Financial intermediation,Services
+29,adb,29-Real estate activities,Services
+30,adb,30-Renting of M&Eq and other business activities,Services
+31,adb,31-Public administration and defense; compulsory social security,Services
+32,adb,32-Education,Services
+33,adb,33-Health and social work,Services
+34,adb,"34-Other community, social, and personal services",Services
+35,adb,35-Private households with employed persons,Services
+1,tiva,"1-Agriculture, hunting, forestry","Agriculture, forestry and fishing"
+2,tiva,2-Fishing and aquaculture,"Agriculture, forestry and fishing"
+3,tiva,"3-Mining and quarrying, energy producing products",Mining and Quarrying
+4,tiva,"4-Mining and quarrying, non-energy producing products",Mining and Quarrying
+5,tiva,5-Mining support service activities,Services
+6,tiva,"6-Food products, beverages and tobacco",Manufacturing
+7,tiva,"7-Textiles, textile products, leather and footwear",Manufacturing
+8,tiva,8-Wood and products of wood and cork,Manufacturing
+9,tiva,9-Paper products and printing,Manufacturing
+10,tiva,10-Coke and refined petroleum products,Manufacturing
+11,tiva,11-Chemical and chemical products,Manufacturing
+12,tiva,"12-Pharmaceuticals, medicinal chemical and botanical products",Manufacturing
+13,tiva,13-Rubber and plastics products,Manufacturing
+14,tiva,14-Other non-metallic mineral products,Manufacturing
+15,tiva,15-Basic metals,Manufacturing
+16,tiva,16-Fabricated metal products,Manufacturing
+17,tiva,"17-Computer, electronic and optical equipment",Manufacturing
+18,tiva,18-Electrical equipment,Manufacturing
+19,tiva,"19-Machinery and equipment, nec",Manufacturing
+20,tiva,"20-Motor vehicles, trailers and semi-trailers",Manufacturing
+21,tiva,21-Other transport equipment,Manufacturing
+22,tiva,22-Manufacturing nec; repair and installation of machinery and equipment,Manufacturing
+23,tiva,"23-Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water"
+24,tiva,"24-Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water"
+25,tiva,25-Construction,Construction
+26,tiva,26-Wholesale and retail trade; repair of motor vehicles,Services
+27,tiva,27-Land transport and transport via pipelines,Services
+28,tiva,28-Water transport,Services
+29,tiva,29-Air transport,Services
+30,tiva,30-Warehousing and support activities for transportation,Services
+31,tiva,31-Postal and courier activities,Services
+32,tiva,32-Accommodation and food service activities,Services
+33,tiva,"33-Publishing, audiovisual and broadcasting activities",Services
+34,tiva,34-Telecommunications,Services
+35,tiva,35-IT and other information services,Services
+36,tiva,36-Financial and insurance activities,Services
+37,tiva,37-Real estate activities,Services
+38,tiva,"38-Professional, scientific and technical activities",Services
+39,tiva,39-Administrative and support services,Services
+40,tiva,40-Public administration and defence; compulsory social security,Services
+41,tiva,41-Education,Services
+42,tiva,42-Human health and social work activities,Services
+43,tiva,"43-Arts, entertainment and recreation",Services
+44,tiva,44-Other service activities,Services
+45,tiva,45-Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Services
+
